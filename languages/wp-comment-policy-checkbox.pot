@@ -1,0 +1,123 @@
+# Copyright (C) 2022 Fco. J. Godoy
+# This file is distributed under the GPL-2.0+.
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Comment Policy Checkbox 0.4.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wp-comment-policy-checkbox\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-11-27T22:41:18+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.8.0-alpha-cc8527a\n"
+"X-Domain: wp-comment-policy-checkbox\n"
+
+#. Plugin Name of the plugin
+#: includes/wp-comment-policy-checkbox-data-eraser.php:51
+#: includes/wp-comment-policy-checkbox-data-exporter.php:77
+msgid "WP Comment Policy Checkbox"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://github.com/fcojgodoy/wp-comment-policy-checkbox"
+msgstr ""
+
+#. Description of the plugin
+msgid "Add a checkbox and custom text to the comment forms so that the user can be informed and give consent to the web's privacy policy. And save this consent in the database."
+msgstr ""
+
+#. Author of the plugin
+msgid "Fco. J. Godoy"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "franciscogodoy.es"
+msgstr ""
+
+#: includes/wp-comment-policy-checkbox-admin.php:11
+msgid "Comments Policy Checkbox"
+msgstr ""
+
+#: includes/wp-comment-policy-checkbox-admin.php:64
+msgid "Privacy policy internal page"
+msgstr ""
+
+#: includes/wp-comment-policy-checkbox-admin.php:72
+msgid "Privacy policy custom page"
+msgstr ""
+
+#: includes/wp-comment-policy-checkbox-admin.php:80
+msgid "Privacy policy basic information"
+msgstr ""
+
+#: includes/wp-comment-policy-checkbox-admin.php:88
+msgid "Privacy policy page link opening"
+msgstr ""
+
+#: includes/wp-comment-policy-checkbox-admin.php:96
+msgid "Privacy policy page link types"
+msgstr ""
+
+#: includes/wp-comment-policy-checkbox-admin.php:113
+msgid "Here you can configure the options for the comment policy checkbox."
+msgstr ""
+
+#: includes/wp-comment-policy-checkbox-admin.php:114
+msgid "The check box for reading and accepting the privacy policy in the comment forms is active. To deactivate it you must deactivate the WP Comment Policy Check plugin."
+msgstr ""
+
+#: includes/wp-comment-policy-checkbox-admin.php:127
+msgid "The page with the privacy policy to which you will link the text of the checkbox will be: "
+msgstr ""
+
+#: includes/wp-comment-policy-checkbox-admin.php:131
+msgid "-- none --"
+msgstr ""
+
+#: includes/wp-comment-policy-checkbox-admin.php:160
+msgid "This external URL will replace the previous option."
+msgstr ""
+
+#: includes/wp-comment-policy-checkbox-admin.php:176
+msgid "Write down the basic information about data protection."
+msgstr ""
+
+#: includes/wp-comment-policy-checkbox-admin.php:178
+msgid "This information will appear above the check box of the privacy policy."
+msgstr ""
+
+#: includes/wp-comment-policy-checkbox-admin.php:208
+msgid "Open policy page in same tab"
+msgstr ""
+
+#: includes/wp-comment-policy-checkbox-admin.php:220
+msgid "link types"
+msgstr ""
+
+#. translators: 1: 'Link types' link text 2: 'nofollow' code 3: 'Link types' samples
+#: includes/wp-comment-policy-checkbox-admin.php:225
+msgid "This is for the HTML %1$s attribute of the policy page link. Use space separated words. This can be useful for use %2$s for SEO reasons. Here are some options you could use: %3$s"
+msgstr ""
+
+#: includes/wp-comment-policy-checkbox-data-exporter.php:43
+msgid "Comments"
+msgstr ""
+
+#: wp-comment-policy-checkbox.php:105
+msgid "Privacy Policy"
+msgstr ""
+
+#. translators: %s: Privacy Policy page link
+#: wp-comment-policy-checkbox.php:126
+msgid "I have read and accepted the %s"
+msgstr ""
+
+#: wp-comment-policy-checkbox.php:161
+msgid "WARNING: "
+msgstr ""
+
+#: wp-comment-policy-checkbox.php:161
+msgid "you must accept the Privacy Policy."
+msgstr ""
